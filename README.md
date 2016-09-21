@@ -1,0 +1,2 @@
+# mgb
+mybatis generator
